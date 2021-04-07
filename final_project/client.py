@@ -14,9 +14,7 @@ def build_and_send_message(conn, code, data):
 
 def recv_message_and_parse(conn):
     full_msg = conn.recv(102400).decode()
-    print(full_msg)
     cmd, data = parse_message(full_msg)
-    print(cmd, data)
     return cmd, data
 
 
