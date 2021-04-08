@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7579531-417c-47fc-849f-5efd6760b6a3" name="Default Changelist" comment="First">
+    <list default="true" id="d7579531-417c-47fc-849f-5efd6760b6a3" name="Default Changelist" comment="remove print">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/final_project/chatlib.py" beforeDir="false" afterPath="$PROJECT_DIR$/final_project/chatlib.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/final_project/client.py" beforeDir="false" afterPath="$PROJECT_DIR$/final_project/client.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -120,11 +122,18 @@
       <option name="presentableId" value="LOCAL‎00002" />
       <updated>1617817742991</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL‎00003" summary="remove print">
+      <created>1617817932922</created>
+      <option name="number" value="LOCAL‎00003" />
+      <option name="presentableId" value="LOCAL‎00003" />
+      <updated>1617817932922</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First" />
-    <option name="LAST_COMMIT_MESSAGE" value="First" />
+    <MESSAGE value="remove print" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove print" />
   </component>
 </project>

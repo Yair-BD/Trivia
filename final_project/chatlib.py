@@ -27,7 +27,9 @@ PROTOCOL_SERVER = {
 
 ERROR_RETURN = None  # What is returned in case of an error
 
-comends = "LOGIN", "LOGOUT", "LOGGED", "GET_QUESTION", "LOGIN_OK"
+comends = "LOGIN", "LOGOUT", "LOGGED", "GET_QUESTION", "LOGIN_OK", "MY_SCORE", "HIGHSCORE",\
+		  "YOUR_SCORE", "ALL_SCORE", "NO_QUESTIONS", "ERROR", "WRONG_ANSWER", "CORRECT_ANSWER", "YOUR_QUESTION",\
+		  "LOGGED_ANSWER" , "SEND_ANSWER",
 def build_message(cmd, data):
 	"""
 	Gets command name (str) and data field (str) and creates a valid protocol message
