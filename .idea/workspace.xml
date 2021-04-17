@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7579531-417c-47fc-849f-5efd6760b6a3" name="Default Changelist" comment="remove print">
+    <list default="true" id="d7579531-417c-47fc-849f-5efd6760b6a3" name="Default Changelist" comment="adding functions">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/final_project/chatlib.py" beforeDir="false" afterPath="$PROJECT_DIR$/final_project/chatlib.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/final_project/client.py" beforeDir="false" afterPath="$PROJECT_DIR$/final_project/client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/final_project/client.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,18 +42,18 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTML" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/final_project/client.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/trydjango/src/manage.py" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\NETWORK\Net work" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.client">
+  <component name="RunManager" selected="Python.manage">
     <configuration name="Unnamed" type="CompoundRunConfigurationType">
       <method v="2" />
     </configuration>
-    <configuration name="client" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Net work" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,11 +61,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\יאיר בן דוד\AppData\Local\Programs\Python\Python39\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/final_project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/trydjango/src" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/final_project/client.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/trydjango/src/manage.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,9 +96,8 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Compound.Unnamed" />
       <item itemvalue="Python.server_tcp" />
-      <item itemvalue="Python.client" />
+      <item itemvalue="Python.manage" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -128,12 +127,19 @@
       <option name="presentableId" value="LOCAL‎00003" />
       <updated>1617817932922</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL‎00004" summary="adding functions">
+      <created>1617880655595</created>
+      <option name="number" value="LOCAL‎00004" />
+      <option name="presentableId" value="LOCAL‎00004" />
+      <updated>1617880655595</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First" />
     <MESSAGE value="remove print" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove print" />
+    <MESSAGE value="adding functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding functions" />
   </component>
 </project>
